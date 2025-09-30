@@ -19,7 +19,7 @@
 
 <!-- Points -->
 
-+ Senior at IIIT Bhopal
++ Backend Developer at Kotak Mahindra Bank
 + Competitive Programmer
 + Open for new opportunities
 + Contact - [omtelang2003@gmail.com](mailto:omtelang2003@gmail.com)
